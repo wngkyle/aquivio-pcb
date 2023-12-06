@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2023-12-06T18:37:32Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "MCU PCB_3.0_3"
+        },
+        "Owner": "Wei-Kai Wang <ww2301@nyu.edu>",
+        "Size": {
+            "X": 280,
+            "Y": 190
+        }
+    }
+}
